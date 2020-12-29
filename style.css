@@ -1,8 +1,8 @@
 body {
   background-color: #000000;
   background-image: url('./assets/bg_snow.jpg');
-  background-position: top;
-  background-size:cover;
+  /* background-position: top; */
+  background-size: cover;
 }
 
 #clock {
