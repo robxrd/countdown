@@ -2,7 +2,8 @@ body {
   background-color: #000000;
   background-image: url('./assets/bg_clear.jpg');
   /* background-position: top; */
-  background-size: 100% 100%;
+  background-size: 100% 270%;
+  background-repeat: no-repeat;
 }
 
 #clock {
